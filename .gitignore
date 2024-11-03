@@ -1,0 +1,12 @@
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Build output
+dist/
+*.log
